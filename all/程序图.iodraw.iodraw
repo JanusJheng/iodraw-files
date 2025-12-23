@@ -632,6 +632,9 @@
         <mxCell id="dffPGmRWBKofVN4fs6yp-114" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1610" y="760" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="a86Ep3MLvd7HkCbDqcr9-1" value="&lt;div&gt;$$&lt;/div&gt;&lt;div&gt;C_{t-1}&lt;/div&gt;&lt;div&gt;$$&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="443" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
