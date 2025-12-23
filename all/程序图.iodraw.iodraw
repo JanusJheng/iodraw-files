@@ -594,7 +594,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-87" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1660.75" y="705" width="29.25" height="25" as="geometry" />
+          <mxGeometry x="1660.75" y="705" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-74" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="1740" y="600" width="40" height="40" as="geometry" />
@@ -612,7 +612,7 @@
           <mxGeometry x="1620.75" y="670" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-98" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;tanh&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1614" y="715" width="40" height="30" as="geometry" />
+          <mxGeometry x="1640.75" y="625" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
