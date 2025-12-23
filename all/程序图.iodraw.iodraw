@@ -474,12 +474,12 @@
         </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1199" y="1150" as="sourcePoint" />
-            <mxPoint x="1199" y="1180" as="targetPoint" />
+            <mxPoint x="1199.5" y="1139" as="sourcePoint" />
+            <mxPoint x="1199.5" y="1169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-53" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;Transformer Encoder&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1139.5" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
