@@ -752,10 +752,13 @@
         <mxCell id="a86Ep3MLvd7HkCbDqcr9-54" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$\mathbf{H}^{(\text{lstm})}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1690" y="1090" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a86Ep3MLvd7HkCbDqcr9-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="a86Ep3MLvd7HkCbDqcr9-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.644;exitY=0.848;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dffPGmRWBKofVN4fs6yp-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1470" y="1059" as="sourcePoint" />
             <mxPoint x="1520" y="1009" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1500" y="1030" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
