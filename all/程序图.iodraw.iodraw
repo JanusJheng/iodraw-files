@@ -184,12 +184,6 @@
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-108" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin: 0px !important;&quot;&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="913" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m2oDgh_Ybv2vrHcsyuf7-150" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="70" y="100" width="340" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="m2oDgh_Ybv2vrHcsyuf7-9" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;rounded=1;" parent="m2oDgh_Ybv2vrHcsyuf7-150" vertex="1">
-          <mxGeometry x="36.637931034482754" y="156.1538461538461" width="73.27586206896551" height="133.8461538461538" as="geometry" />
-        </mxCell>
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-152" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="485" y="510" width="450" height="640" as="geometry" />
         </mxCell>
@@ -718,6 +712,9 @@
         </mxCell>
         <mxCell id="a86Ep3MLvd7HkCbDqcr9-58" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Transformer Encoder&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1590" y="1138" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a86Ep3MLvd7HkCbDqcr9-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1189" y="690" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
