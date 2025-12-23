@@ -358,8 +358,8 @@
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-155" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;TCAE module&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="645" y="1139" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dffPGmRWBKofVN4fs6yp-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="570" y="200" width="100" height="60" as="geometry" />
+        <mxCell id="dffPGmRWBKofVN4fs6yp-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="490" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
