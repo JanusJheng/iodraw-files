@@ -512,12 +512,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-61" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="570" width="331.5" height="235" as="geometry" />
+          <mxGeometry x="1515" y="565" width="331.5" height="245" as="geometry" />
         </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1720" y="490" as="sourcePoint" />
-            <mxPoint x="1770" y="440" as="targetPoint" />
+            <mxPoint x="1750" y="500" as="sourcePoint" />
+            <mxPoint x="1800" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
