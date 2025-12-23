@@ -585,7 +585,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-75" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="1741" y="705" width="39" height="35" as="geometry" />
+          <mxGeometry x="1741" y="705" width="39" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-86" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
