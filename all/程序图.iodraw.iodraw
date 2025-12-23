@@ -472,6 +472,12 @@
         <mxCell id="dffPGmRWBKofVN4fs6yp-51" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;$$\mathbf{H}^{(lstm)} = [\mathbf{h}_1, \mathbf{h}_2, \ldots, \mathbf{h}_T]$$&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1090" width="399" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dffPGmRWBKofVN4fs6yp-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="1100" as="sourcePoint" />
+            <mxPoint x="1190" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
