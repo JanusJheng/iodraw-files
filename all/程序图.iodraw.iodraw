@@ -478,7 +478,7 @@
             <mxPoint x="1199" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dffPGmRWBKofVN4fs6yp-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dffPGmRWBKofVN4fs6yp-53" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;Transformer Encoder&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
