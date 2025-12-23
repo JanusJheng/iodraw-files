@@ -361,9 +361,6 @@
         <mxCell id="dffPGmRWBKofVN4fs6yp-15" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1046" y="510" width="390" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="dffPGmRWBKofVN4fs6yp-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;rotation=90;" vertex="1" parent="dffPGmRWBKofVN4fs6yp-15">
-          <mxGeometry x="80" y="30" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;rotation=90;" vertex="1" parent="dffPGmRWBKofVN4fs6yp-15">
           <mxGeometry x="235" y="130" width="100" height="70" as="geometry" />
         </mxCell>
@@ -378,6 +375,9 @@
         </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-18" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="dffPGmRWBKofVN4fs6yp-15">
           <mxGeometry y="200" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dffPGmRWBKofVN4fs6yp-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1201.5" y="729.5" width="99" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
