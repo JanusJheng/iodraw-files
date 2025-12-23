@@ -608,23 +608,20 @@
         <mxCell id="dffPGmRWBKofVN4fs6yp-109" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;$$\sigma$$&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1610" y="605" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dffPGmRWBKofVN4fs6yp-112" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="dffPGmRWBKofVN4fs6yp-88" target="dffPGmRWBKofVN4fs6yp-111" edge="1">
+        <mxCell id="dffPGmRWBKofVN4fs6yp-112" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="dffPGmRWBKofVN4fs6yp-111" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1600.75" y="819" as="sourcePoint" />
+            <mxPoint x="1690.7482432282577" y="818.7660865964951" as="sourcePoint" />
             <mxPoint x="1760.75" y="819" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-111" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;tanh&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1710" y="805" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dffPGmRWBKofVN4fs6yp-113" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="dffPGmRWBKofVN4fs6yp-88" edge="1">
+        <mxCell id="dffPGmRWBKofVN4fs6yp-113" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1600.75" y="819" as="sourcePoint" />
-            <mxPoint x="1710" y="820" as="targetPoint" />
+            <mxPoint x="1660.75" y="818.46" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="dffPGmRWBKofVN4fs6yp-88" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="1660.75" y="798.46" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-114" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;$$\sigma$$&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1610" y="760" width="40" height="30" as="geometry" />
