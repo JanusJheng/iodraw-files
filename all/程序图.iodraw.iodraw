@@ -557,10 +557,13 @@
             <mxPoint x="1600" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dffPGmRWBKofVN4fs6yp-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="dffPGmRWBKofVN4fs6yp-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="dffPGmRWBKofVN4fs6yp-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1600" y="635" as="sourcePoint" />
             <mxPoint x="1650" y="585" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1610" y="470" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
