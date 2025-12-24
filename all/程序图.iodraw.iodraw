@@ -248,7 +248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-96" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" parent="m2oDgh_Ybv2vrHcsyuf7-153" vertex="1">
-          <mxGeometry x="195" y="355.0954919517623" width="80" height="71.019098" as="geometry" />
+          <mxGeometry x="195" y="355.0954919517623" width="80" height="70.09098" as="geometry" />
         </mxCell>
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-98" value="" style="endArrow=classic;html=1;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="m2oDgh_Ybv2vrHcsyuf7-153" target="m2oDgh_Ybv2vrHcsyuf7-96" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
