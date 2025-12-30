@@ -10,7 +10,7 @@
         <mxCell id="dffPGmRWBKofVN4fs6yp-57" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1001" y="480" width="480" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="m2oDgh_Ybv2vrHcsyuf7-158" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="m2oDgh_Ybv2vrHcsyuf7-158" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="10" y="750" width="145" height="140" as="geometry" />
         </mxCell>
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-157" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
@@ -85,7 +85,7 @@
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-33" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;LSTM&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="260" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m2oDgh_Ybv2vrHcsyuf7-36" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Transformer Encoder&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="m2oDgh_Ybv2vrHcsyuf7-36" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Transformer Encoder&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="20" y="840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-37" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 17px;&quot;&gt;Transformer Encoder&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
