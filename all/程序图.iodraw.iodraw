@@ -170,13 +170,13 @@
           <mxGeometry x="85" y="780" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-78" value="&lt;span style=&quot;font-size: 17px; text-wrap-mode: wrap;&quot;&gt;$$\mathbf{H}_{\mathrm{tda}}^{(\mathrm{lstm})}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="805" width="400" height="30" as="geometry" />
+          <mxGeometry x="150" y="805" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-80" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="m2oDgh_Ybv2vrHcsyuf7-71" target="m2oDgh_Ybv2vrHcsyuf7-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-81" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$\mathbf{H}_{\text{main}}^{\text{(trans)}}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="860" width="70" height="50" as="geometry" />
+          <mxGeometry x="15" y="870" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-82" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;$$\mathbf{H}_{\text{tda}}^{\text{(trans)}}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="870" width="60" height="60" as="geometry" />
