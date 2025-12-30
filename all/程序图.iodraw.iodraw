@@ -16,7 +16,7 @@
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-157" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="245" y="750" width="145" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="m2oDgh_Ybv2vrHcsyuf7-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;Input multivariate variables&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="m2oDgh_Ybv2vrHcsyuf7-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;Input multivariate variables&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="480" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-13" value="" style="endArrow=none;html=1;rounded=1;" parent="1" edge="1">
