@@ -578,7 +578,7 @@
             <mxPoint x="228.625" y="292.77272727272725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dffPGmRWBKofVN4fs6yp-111" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;tanh&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="a86Ep3MLvd7HkCbDqcr9-39" vertex="1">
+        <mxCell id="dffPGmRWBKofVN4fs6yp-111" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;tanh&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="a86Ep3MLvd7HkCbDqcr9-39" vertex="1">
           <mxGeometry x="182.3529411764706" y="280.68181818181824" width="36.470588235294116" height="25.90909090909091" as="geometry" />
         </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-113" value="" style="endArrow=none;html=1;rounded=0;" parent="a86Ep3MLvd7HkCbDqcr9-39" target="dffPGmRWBKofVN4fs6yp-88" edge="1">
