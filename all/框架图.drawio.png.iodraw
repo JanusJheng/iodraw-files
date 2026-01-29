@@ -722,8 +722,8 @@
         <mxCell id="_do8xADgz92Ly-E7WxdI-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Attentive Pooling&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="125" y="988" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x-btAICSPA-jXkERhpF9-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="892" width="95" height="50" as="geometry" />
+        <mxCell id="x-btAICSPA-jXkERhpF9-2" value="&lt;font style=&quot;text-wrap-mode: nowrap; font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;Cross&lt;/font&gt;&lt;div style=&quot;text-wrap-mode: nowrap; font-size: 17px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Attention&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="892" width="95" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
