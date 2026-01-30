@@ -49,7 +49,7 @@
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-16" value="" style="endArrow=classic;html=1;rounded=1;" parent="nPK6iAL3t1MQiWbOlDgU-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="112.3478260869565" as="sourcePoint" />
-            <mxPoint x="389.66850714903785" y="141.9130434782609" as="targetPoint" />
+            <mxPoint x="390" y="141.9130434782609" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-17" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 14px; text-align: left; background-color: rgb(235, 238, 242);&quot;&gt;$$X_{\mathrm{main}}$$&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;strokeColor=#82b366;" parent="nPK6iAL3t1MQiWbOlDgU-4" vertex="1">
@@ -66,7 +66,7 @@
         </mxCell>
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-23" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="nPK6iAL3t1MQiWbOlDgU-4" target="m2oDgh_Ybv2vrHcsyuf7-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="391" y="189.2173913043478" as="sourcePoint" />
+            <mxPoint x="390" y="189.2173913043478" as="sourcePoint" />
             <mxPoint x="389.66850714903785" y="224.695652173913" as="targetPoint" />
           </mxGeometry>
         </mxCell>
