@@ -728,8 +728,8 @@
         <mxCell id="x-btAICSPA-jXkERhpF9-2" value="&lt;font style=&quot;text-wrap-mode: nowrap; font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;Cross&lt;/font&gt;&lt;div style=&quot;text-wrap-mode: nowrap; font-size: 17px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Attention&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="nPK6iAL3t1MQiWbOlDgU-4" vertex="1">
           <mxGeometry x="176.64583333333334" y="526.6434782608695" width="110.04166666666667" height="63.91304347826087" as="geometry" />
         </mxCell>
-        <mxCell id="a86Ep3MLvd7HkCbDqcr9-53" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;$$\mathbf{H}^{(\text{trans})}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nPK6iAL3t1MQiWbOlDgU-3" vertex="1">
-          <mxGeometry x="2096.0033333333336" y="656.6391304347826" width="250" height="30" as="geometry" />
+        <mxCell id="a86Ep3MLvd7HkCbDqcr9-53" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;$$\mathbf{H}^{(\text{trans})}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nPK6iAL3t1MQiWbOlDgU-4" vertex="1">
+          <mxGeometry x="1823.4133333333336" y="498.5191304347826" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
