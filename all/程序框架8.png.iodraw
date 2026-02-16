@@ -178,8 +178,8 @@
         <mxCell id="m2oDgh_Ybv2vrHcsyuf7-152" value="" style="group;strokeColor=#FFFFFF;opacity=70;sketch=1;curveFitting=1;jiggle=2;container=0;" parent="nPK6iAL3t1MQiWbOlDgU-4" vertex="1" connectable="0">
           <mxGeometry x="580.2274009272508" y="35.478260869565226" width="561.9044303716535" height="756.8695652173913" as="geometry" />
         </mxCell>
-        <mxCell id="m2oDgh_Ybv2vrHcsyuf7-155" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;TCAE module&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nPK6iAL3t1MQiWbOlDgU-4" vertex="1">
-          <mxGeometry x="775.6724201869563" y="779.3391304347825" width="130" height="30" as="geometry" />
+        <mxCell id="m2oDgh_Ybv2vrHcsyuf7-155" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;TCAE Module&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nPK6iAL3t1MQiWbOlDgU-4" vertex="1">
+          <mxGeometry x="778.6724201869563" y="778.3391304347825" width="125" height="32" as="geometry" />
         </mxCell>
         <mxCell id="dffPGmRWBKofVN4fs6yp-22" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=#FF0080;gradientDirection=radial;strokeColor=#FFFFFF;shadow=1;" parent="nPK6iAL3t1MQiWbOlDgU-4" vertex="1">
           <mxGeometry x="1244.7404664102496" y="236.52173913043475" width="97.72250962985275" height="94.6086956521739" as="geometry" />
