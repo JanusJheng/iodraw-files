@@ -719,6 +719,12 @@
         <mxCell id="AdeE9Lgm4RYlITHWgY6X-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Total framework&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nPK6iAL3t1MQiWbOlDgU-4">
           <mxGeometry x="175.51242018695632" y="781.9691304347825" width="141" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="AdeE9Lgm4RYlITHWgY6X-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="nPK6iAL3t1MQiWbOlDgU-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1748.5081947880153" y="445.97278911564626" as="sourcePoint" />
+            <mxPoint x="1798.5081947880153" y="395.97278911564626" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
