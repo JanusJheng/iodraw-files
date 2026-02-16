@@ -725,6 +725,9 @@
             <mxPoint x="390" y="141.91278911564632" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AdeE9Lgm4RYlITHWgY6X-1" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;TCAE module&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1355.164225398941" y="1279.3663413191362" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
