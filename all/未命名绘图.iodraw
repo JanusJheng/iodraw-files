@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="P2BFqOhjgLRFNp2BceLC">
-    <mxGraphModel dx="954" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="UIA3uhvYm5AlzIZSLVX3-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="650" y="111.33" width="120" height="264" as="geometry" />
-        </mxCell>
-        <mxCell id="UIA3uhvYm5AlzIZSLVX3-5" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 17px; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;$$O_{\mathrm{cross}}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="418" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
