@@ -586,7 +586,7 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-670" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;Forward Output&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60CC9A;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1105" y="640" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-672" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Traditional Feaetures&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;(Base Features)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60CC9A;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-672" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;Backward Output&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60CC9A;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1105" y="800" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
