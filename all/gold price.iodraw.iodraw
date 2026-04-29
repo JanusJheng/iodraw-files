@@ -655,8 +655,8 @@
             <mxPoint x="2160" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-694" value="Residual Connection" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="790" width="120" height="80" as="geometry" />
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-695" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Residual Connection&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
