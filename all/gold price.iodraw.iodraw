@@ -496,6 +496,9 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-629" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;BiLSTM&amp;nbsp; Layer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="625" y="545" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-630" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
