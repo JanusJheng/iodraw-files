@@ -505,20 +505,11 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-633" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Backward LSTM&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="625" y="920" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-636" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#41CCAC;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="680" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-638" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#41CCAC;" vertex="1" parent="1">
           <mxGeometry x="1130" y="680" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-642" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#41CCAC;" vertex="1" parent="1">
           <mxGeometry x="1440" y="680" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-645" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="700" as="sourcePoint" />
-            <mxPoint x="1198" y="700" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-646" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
