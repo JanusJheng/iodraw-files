@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FbQEiacw4XEHrXZC_JCj-41" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="71.87" width="300" height="361.13" as="geometry" />
+          <mxGeometry x="560" y="120" width="300" height="361.13" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="440" height="360" as="geometry" />
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-30" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Traditional Feaetures&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;(Base Features)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60CC9A;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="580" y="163.87" width="240" height="80" as="geometry" />
+          <mxGeometry x="600" y="160" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-31" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;TDA Features&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009999;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="580" y="345" width="240" height="80" as="geometry" />
