@@ -79,7 +79,7 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-55" value="TDA Features Only" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#41CCAC;" vertex="1" parent="1">
           <mxGeometry x="1345" y="289.43" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#40FFB3;" vertex="1" parent="1">
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-56" value="Base + TDA Features" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#40FFB3;" vertex="1" parent="1">
           <mxGeometry x="1345" y="375" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
