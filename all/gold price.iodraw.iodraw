@@ -40,6 +40,9 @@
             <mxPoint x="920" y="299.82000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-37" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;TDA Features&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="610" y="360" width="240" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
