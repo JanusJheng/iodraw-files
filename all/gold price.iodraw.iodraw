@@ -697,8 +697,8 @@
             <mxPoint x="1520" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-713" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="1248" width="50" height="30" as="geometry" />
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-713" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Gate Weights&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="1243" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
