@@ -556,8 +556,8 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-465" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="FbQEiacw4XEHrXZC_JCj-440">
           <mxGeometry x="80" y="80" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-492" value="" style="group" vertex="1" connectable="0" parent="FbQEiacw4XEHrXZC_JCj-440">
-          <mxGeometry x="15" y="-40" width="220" height="130" as="geometry" />
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-492" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="410" y="650" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-493" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="FbQEiacw4XEHrXZC_JCj-492">
           <mxGeometry x="80" width="50" height="50" as="geometry" />
