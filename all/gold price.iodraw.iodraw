@@ -794,7 +794,7 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-741" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;tanh&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#60CC9A;rotation=-90;container=0;" vertex="1" parent="1">
           <mxGeometry x="387" y="1951" width="44.54996762537405" height="30.640316205533594" as="geometry" />
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-742" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;$$\sigma$$&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;rotation=-90;container=0;" vertex="1" parent="1">
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-742" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;$$\sigma$$&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#00FF80;strokeColor=#36393d;rotation=-90;container=0;" vertex="1" parent="1">
           <mxGeometry x="346" y="1951" width="44.54996762537405" height="30.640316205533594" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-743" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;$$\sigma$$&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#00CC66;strokeColor=#36393d;rotation=-90;container=0;" vertex="1" parent="1">
@@ -818,7 +818,7 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-747" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-90;container=0;" vertex="1" parent="1">
           <mxGeometry x="489" y="1900" width="33.41247571903054" height="30.640316205533594" as="geometry" />
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-748" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;$$\sigma$$&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;rotation=-90;container=0;" vertex="1" parent="1">
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-748" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;$$\sigma$$&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#00FF80;strokeColor=#36393d;rotation=-90;container=0;" vertex="1" parent="1">
           <mxGeometry x="438" y="1951" width="44.54996762537405" height="30.640316205533594" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-749" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;$$C_{t-1}$$&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;container=0;" vertex="1" parent="1">
