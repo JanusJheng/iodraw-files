@@ -92,7 +92,7 @@
           <mxGeometry x="150" y="545" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-75" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="140" y="660" width="170" height="180" as="geometry" />
+          <mxGeometry x="200" y="760" width="170" height="180" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-76" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -102,14 +102,14 @@
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-77" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="720" as="sourcePoint" />
-            <mxPoint x="255" y="680" as="targetPoint" />
+            <mxPoint x="180" y="720" as="sourcePoint" />
+            <mxPoint x="265" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-78" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="192.5" y="730" as="sourcePoint" />
-            <mxPoint x="277.5" y="690" as="targetPoint" />
+            <mxPoint x="200" y="730" as="sourcePoint" />
+            <mxPoint x="285" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
