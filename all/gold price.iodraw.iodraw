@@ -580,8 +580,8 @@
             <mxPoint x="1020" y="759.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-673" value="" style="group;dashed=1;strokeColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1020" y="520" width="360" height="480" as="geometry" />
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-673" value="" style="group;dashed=1;strokeColor=default;dashPattern=8 8;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1160" y="520" width="360" height="480" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-669" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FbQEiacw4XEHrXZC_JCj-673">
           <mxGeometry width="360" height="480" as="geometry" />
