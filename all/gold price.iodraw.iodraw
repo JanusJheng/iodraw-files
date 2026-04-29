@@ -650,7 +650,7 @@
           <mxGeometry x="1410" y="1040" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-690" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;Average Fusion&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009999;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="1169" width="240" height="80" as="geometry" />
+          <mxGeometry x="1410" y="1200" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-692" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -674,7 +674,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-708" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1990" y="760" width="160" height="140" as="geometry" />
+          <mxGeometry x="1250" y="1080" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-695" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Residual Connection&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FbQEiacw4XEHrXZC_JCj-708">
           <mxGeometry y="35" width="160" height="70" as="geometry" />
