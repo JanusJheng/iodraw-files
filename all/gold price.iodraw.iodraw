@@ -528,14 +528,14 @@
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-653" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1280" y="1040" as="sourcePoint" />
-            <mxPoint x="1330" y="1040" as="targetPoint" />
+            <mxPoint x="1345" y="919.17" as="sourcePoint" />
+            <mxPoint x="1395" y="919.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-654" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1450" y="1020" as="sourcePoint" />
-            <mxPoint x="1500" y="1020" as="targetPoint" />
+            <mxPoint x="1510" y="920" as="sourcePoint" />
+            <mxPoint x="1560" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
