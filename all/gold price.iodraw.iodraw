@@ -106,6 +106,21 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-84" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
           <mxGeometry x="220" y="670" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-95" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-96" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="650" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-97" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="160" y="660" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-98" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="670" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-99" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
