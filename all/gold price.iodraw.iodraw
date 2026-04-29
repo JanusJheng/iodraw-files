@@ -88,81 +88,6 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-61" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Input Sequence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="545" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-75" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="140" y="630" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-81" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="160" y="640" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-82" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="180" y="650" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-83" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="200" y="660" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-84" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="220" y="670" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-95" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="640" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-96" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="140" y="650" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-97" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="160" y="660" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-98" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="180" y="670" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-99" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="200" y="680" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-100" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="100" y="650" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-101" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="660" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-102" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="140" y="670" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-103" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="160" y="680" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-104" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="180" y="690" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-120" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="80" y="660" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-121" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="100" y="670" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-122" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="680" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-123" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="140" y="690" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-124" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="160" y="700" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-125" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="60" y="670" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-126" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="80" y="680" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-127" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="100" y="690" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-128" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="700" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-129" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="140" y="710" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-332" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="140" y="780" width="210" height="130" as="geometry" />
         </mxCell>
@@ -242,7 +167,7 @@
           <mxGeometry x="80" y="80" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-333" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="760" width="210" height="130" as="geometry" />
+          <mxGeometry x="140" y="762" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-334" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="FbQEiacw4XEHrXZC_JCj-333">
           <mxGeometry x="80" width="50" height="50" as="geometry" />
