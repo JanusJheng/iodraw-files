@@ -146,7 +146,7 @@
           <mxGeometry x="210" y="680" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-108" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="230" y="690" width="50" height="50" as="geometry" />
+          <mxGeometry x="180" y="690" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-109" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" vertex="1" parent="1">
           <mxGeometry x="250" y="700" width="50" height="50" as="geometry" />
