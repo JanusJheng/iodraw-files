@@ -89,7 +89,7 @@
           <mxGeometry x="150" y="545" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-624" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="438" y="774" width="242.5" height="236" as="geometry" />
+          <mxGeometry x="130" y="630" width="242.5" height="236" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-440" value="" style="group" vertex="1" connectable="0" parent="FbQEiacw4XEHrXZC_JCj-624">
           <mxGeometry y="106" width="242.5" height="130" as="geometry" />
