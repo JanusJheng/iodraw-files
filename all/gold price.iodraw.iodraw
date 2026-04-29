@@ -14,7 +14,7 @@
           <mxGeometry x="95.71" y="160" width="398.57" height="300" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-28" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Date Preparation:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Gold Price Return Time Series&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="120" width="310" height="70" as="geometry" />
+          <mxGeometry x="120" y="118.87" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-57" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Feature Construction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="128.87" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
