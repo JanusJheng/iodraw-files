@@ -672,13 +672,13 @@
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-701" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1144.44" y="1223" as="sourcePoint" />
-            <mxPoint x="1144.44" y="1190" as="targetPoint" />
+            <mxPoint x="1144.44" y="1220" as="sourcePoint" />
+            <mxPoint x="1144.44" y="1187" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-693" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1147" y="1220" as="sourcePoint" />
+            <mxPoint x="1144" y="1220" as="sourcePoint" />
             <mxPoint x="1409" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
