@@ -643,11 +643,11 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-688" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="FbQEiacw4XEHrXZC_JCj-704">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="136" y="480" as="sourcePoint" />
-            <mxPoint x="136" y="520" as="targetPoint" />
+            <mxPoint x="136" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-710" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="320" y="1120" width="1055" height="220" as="geometry" />
+          <mxGeometry x="80" y="1090" width="1055" height="220" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-689" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;Gated Fusion&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60CC9A;strokeColor=#6c8ebf;" vertex="1" parent="FbQEiacw4XEHrXZC_JCj-710">
           <mxGeometry x="815" width="240" height="80" as="geometry" />
