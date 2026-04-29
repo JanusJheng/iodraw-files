@@ -654,7 +654,7 @@
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-692" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1319" y="1079.17" as="sourcePoint" />
+            <mxPoint x="1145" y="1079" as="sourcePoint" />
             <mxPoint x="1410" y="1079.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -662,23 +662,23 @@
           <mxGeometry x="2220" y="795" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-695" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Residual Connection&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1249" y="1115" width="160" height="70" as="geometry" />
+          <mxGeometry x="1030" y="1120" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-700" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1319" y="1080" as="sourcePoint" />
-            <mxPoint x="1319" y="1113" as="targetPoint" />
+            <mxPoint x="1144.44" y="1080" as="sourcePoint" />
+            <mxPoint x="1144.44" y="1113" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-701" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1319" y="1220" as="sourcePoint" />
-            <mxPoint x="1319" y="1187" as="targetPoint" />
+            <mxPoint x="1144.44" y="1223" as="sourcePoint" />
+            <mxPoint x="1144.44" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-693" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1319" y="1220" as="sourcePoint" />
+            <mxPoint x="1150" y="1220" as="sourcePoint" />
             <mxPoint x="1409" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
