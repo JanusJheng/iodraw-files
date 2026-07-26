@@ -818,9 +818,6 @@
         <mxCell id="7R_O7G8fWMus0W6j9cl8-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.tailedNotchedArrow;dy1=13;dx1=42;notch=43;arrowHead=41;dx2=25;dy2=105;direction=west;" vertex="1" parent="1">
           <mxGeometry x="390" y="2140" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="7R_O7G8fWMus0W6j9cl8-50" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1860" width="130" height="120" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
