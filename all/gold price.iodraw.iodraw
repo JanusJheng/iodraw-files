@@ -163,7 +163,7 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-463" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" parent="FbQEiacw4XEHrXZC_JCj-440" vertex="1">
           <mxGeometry x="40" y="60" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-464" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" parent="FbQEiacw4XEHrXZC_JCj-440" vertex="1">
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-464" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#fad7ac;strokeColor=#b46504;" parent="FbQEiacw4XEHrXZC_JCj-440" vertex="1">
           <mxGeometry x="60" y="70" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-465" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#fad7ac;strokeColor=#b46504;" parent="FbQEiacw4XEHrXZC_JCj-440" vertex="1">
@@ -403,7 +403,7 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-622" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#fad7ac;strokeColor=#b46504;" parent="FbQEiacw4XEHrXZC_JCj-597" vertex="1">
           <mxGeometry x="80" y="80" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-544" value="" style="group;fillColor=#fad7ac;strokeColor=#b46504;" parent="FbQEiacw4XEHrXZC_JCj-624" vertex="1" connectable="0">
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-544" value="" style="group" parent="FbQEiacw4XEHrXZC_JCj-624" vertex="1" connectable="0">
           <mxGeometry width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-545" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#fad7ac;strokeColor=#b46504;" parent="FbQEiacw4XEHrXZC_JCj-544" vertex="1">
