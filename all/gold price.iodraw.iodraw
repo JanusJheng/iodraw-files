@@ -780,7 +780,7 @@
           <mxGeometry x="1440" y="1679" width="115.31" height="231" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-696" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Output&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="80.00000000000006" y="2169.3218181818183" width="169.61137440758293" height="76.36363636363637" as="geometry" />
+          <mxGeometry x="210.19000000000005" y="2083.6418181818185" width="169.61137440758293" height="76.36363636363637" as="geometry" />
         </mxCell>
         <mxCell id="T5VIbhjcyiOePLNBsleC-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Learnable Weighted Fusion&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000.0000000000002" y="2074.32" width="200" height="95" as="geometry" />
