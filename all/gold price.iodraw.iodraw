@@ -824,21 +824,6 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="-163.79" width="450" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="7R_O7G8fWMus0W6j9cl8-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1220" y="-880" width="310" height="540" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-30" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Traditional Features&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;(Base Features)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="7R_O7G8fWMus0W6j9cl8-16" vertex="1">
-          <mxGeometry x="6.945010183299389" y="157.19878943206913" width="303.05498981670064" height="117.78498786705565" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-31" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;TDA Features&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#b85450;" parent="7R_O7G8fWMus0W6j9cl8-16" vertex="1">
-          <mxGeometry y="422.21501213294437" width="303.05498981670064" height="117.78498786705565" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-32" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;+&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7R_O7G8fWMus0W6j9cl8-16" vertex="1">
-          <mxGeometry x="119.95926680244399" y="319.15314774927066" width="50" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-57" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Feature Construction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7R_O7G8fWMus0W6j9cl8-16" vertex="1">
-          <mxGeometry x="19.572301425661916" width="220" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-53" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Feature Set Configurations&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1220" y="-100" width="270" height="40" as="geometry" />
         </mxCell>
@@ -856,6 +841,18 @@
             <mxPoint x="960" y="-560" as="sourcePoint" />
             <mxPoint x="1135" y="-560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-30" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Traditional Features&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;(Base Features)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="1226.9450101832995" y="-722.8012105679309" width="303.05498981670064" height="117.78498786705565" as="geometry" />
+        </mxCell>
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-31" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;TDA Features&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="-457.78498786705563" width="303.05498981670064" height="117.78498786705565" as="geometry" />
+        </mxCell>
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-32" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;+&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1339.959266802444" y="-560.8468522507294" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-57" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Feature Construction&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1239.5723014256619" y="-880" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
