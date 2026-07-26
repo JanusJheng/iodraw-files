@@ -816,7 +816,7 @@
           <mxGeometry x="250" y="2170" width="200" height="95" as="geometry" />
         </mxCell>
         <mxCell id="7R_O7G8fWMus0W6j9cl8-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.tailedNotchedArrow;dy1=13;dx1=42;notch=43;arrowHead=41;dx2=25;dy2=105;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="470" y="2190" width="190" height="70" as="geometry" />
+          <mxGeometry x="500" y="2168" width="190" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
