@@ -11,15 +11,15 @@
           <mxGeometry x="1150" y="-790" width="411" height="520" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="-770" width="589" height="500" as="geometry" />
+          <mxGeometry x="270" y="-760" width="589" height="500" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-28" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Date Preparation:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Gold Price Time Series&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="-750" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.989;exitY=0.377;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="679" y="-570" as="sourcePoint" />
-            <mxPoint x="858" y="-570" as="targetPoint" />
+            <mxPoint x="880.5" y="-560" as="sourcePoint" />
+            <mxPoint x="1059.5" y="-560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-30" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Traditional Features&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;(Base Features)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
@@ -855,7 +855,7 @@
           <mxGeometry x="89.99999999999996" y="-670" width="544.71" height="410" as="geometry" />
         </mxCell>
         <mxCell id="7R_O7G8fWMus0W6j9cl8-8" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 23px;&quot;&gt;Price Return&lt;/span&gt;&lt;div style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 23px; white-space: nowrap;&quot;&gt;&amp;nbsp;Time Series&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-660" width="140" height="70" as="geometry" />
+          <mxGeometry x="874.5" y="-660" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
