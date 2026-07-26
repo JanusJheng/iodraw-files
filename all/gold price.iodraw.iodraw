@@ -767,8 +767,8 @@
         <mxCell id="7R_O7G8fWMus0W6j9cl8-46" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="600" y="1190" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7R_O7G8fWMus0W6j9cl8-47" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="1955" width="245" height="150" as="geometry" />
+        <mxCell id="7R_O7G8fWMus0W6j9cl8-47" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1460" width="245" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-713" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Gate Weights&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1040" y="2065" width="150" height="40" as="geometry" />
