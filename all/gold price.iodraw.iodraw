@@ -29,13 +29,7 @@
           <mxGeometry x="170" y="-165.57" width="620" height="555.57" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-43" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Data Split&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1014.5" y="123.87" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-51" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1249" y="299.41" as="sourcePoint" />
-            <mxPoint x="1289" y="299.41" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="414" y="-130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1290" y="118.87" width="370" height="361.13" as="geometry" />
