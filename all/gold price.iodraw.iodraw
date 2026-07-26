@@ -819,7 +819,7 @@
           <mxGeometry x="201.57999999999998" y="-706.77" width="606.85" height="456.77" as="geometry" />
         </mxCell>
         <mxCell id="7R_O7G8fWMus0W6j9cl8-8" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 23px;&quot;&gt;Price Return&lt;/span&gt;&lt;div style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 23px; white-space: nowrap;&quot;&gt;&amp;nbsp;Time Series&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="910" y="-654" width="140" height="70" as="geometry" />
+          <mxGeometry x="1120" y="-1010" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7R_O7G8fWMus0W6j9cl8-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.614;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;endWidth=80;endSize=11.287499999999998;width=25;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -837,19 +837,19 @@
           <mxGeometry x="1140" y="-163.79" width="450" height="620" as="geometry" />
         </mxCell>
         <mxCell id="7R_O7G8fWMus0W6j9cl8-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1320" y="-400" width="270" height="306.13" as="geometry" />
+          <mxGeometry x="1210" y="-110" width="330" height="460" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-53" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Feature Set Configurations&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7R_O7G8fWMus0W6j9cl8-15" vertex="1">
           <mxGeometry width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-54" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Times New Roman&quot;&gt;Base Features Only&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="7R_O7G8fWMus0W6j9cl8-15" vertex="1">
-          <mxGeometry x="5" y="76.13" width="260" height="60" as="geometry" />
+          <mxGeometry x="6.111111111111112" y="114.39519158527423" width="317.7777777777778" height="90.15777610818934" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-55" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Times New Roman&quot;&gt;TDA Features Only&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" parent="7R_O7G8fWMus0W6j9cl8-15" vertex="1">
-          <mxGeometry x="5" y="160.56" width="260" height="60" as="geometry" />
+          <mxGeometry x="6.111111111111112" y="241.26220886551468" width="317.7777777777778" height="90.15777610818934" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-56" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Times New Roman&quot;&gt;Base + TDA Features&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="7R_O7G8fWMus0W6j9cl8-15" vertex="1">
-          <mxGeometry x="5" y="246.13" width="260" height="60" as="geometry" />
+          <mxGeometry x="6.111111111111112" y="369.8422238918107" width="317.7777777777778" height="90.15777610818934" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
