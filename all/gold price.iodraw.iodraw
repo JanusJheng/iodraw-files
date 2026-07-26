@@ -23,10 +23,10 @@
           <mxGeometry x="495" y="-140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-625" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="82.5" y="520" width="337.5" height="480" as="geometry" />
+          <mxGeometry x="540" y="530" width="337.5" height="480" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-61" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Input Sequence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="150" y="545" width="170" height="40" as="geometry" />
+          <mxGeometry x="195" y="545" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-624" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="130" y="680" width="242.5" height="236" as="geometry" />
@@ -421,12 +421,6 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-569" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#fad7ac;strokeColor=#b46504;" parent="FbQEiacw4XEHrXZC_JCj-544" vertex="1">
           <mxGeometry x="80" y="80" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-627" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="760" as="sourcePoint" />
-            <mxPoint x="480" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-705" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="70" y="1270" width="350" height="470" as="geometry" />
         </mxCell>
@@ -774,7 +768,7 @@
           <mxGeometry x="520" y="1060" width="680" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7R_O7G8fWMus0W6j9cl8-28" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="690" y="930" width="380" height="415" as="geometry" />
+          <mxGeometry x="720" y="1330" width="380" height="415" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-629" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;BiLSTM&amp;nbsp; Layer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7R_O7G8fWMus0W6j9cl8-28" vertex="1">
           <mxGeometry x="95" width="170" height="40" as="geometry" />
