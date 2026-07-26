@@ -23,7 +23,7 @@
           <mxGeometry x="495" y="-140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-625" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="550" width="593.75" height="600" as="geometry" />
+          <mxGeometry x="130" y="550" width="530" height="600" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-61" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Input Sequence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="325" y="585" width="170" height="40" as="geometry" />
@@ -443,7 +443,7 @@
           <mxGeometry x="970" y="-650" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="-163.79" width="560" height="620" as="geometry" />
+          <mxGeometry x="1140" y="-163.79" width="460" height="620" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-53" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Feature Set Configurations&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1220" y="-100" width="270" height="40" as="geometry" />
@@ -696,7 +696,7 @@
           <mxGeometry x="310" y="79.68000000000006" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-628" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="560" width="390" height="610" as="geometry" />
+          <mxGeometry x="890" y="560" width="390" height="600" as="geometry" />
         </mxCell>
         <mxCell id="7R_O7G8fWMus0W6j9cl8-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="760" y="440" width="350" height="110" as="geometry" />
