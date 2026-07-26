@@ -427,9 +427,6 @@
             <mxPoint x="480" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-628" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="530.95" width="480" height="480" as="geometry" />
-        </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-629" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;BiLSTM&amp;nbsp; Layer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="625" y="545" width="170" height="40" as="geometry" />
         </mxCell>
@@ -524,7 +521,7 @@
           <mxGeometry x="51.470588235294116" y="274.16666666666663" width="247.05882352941177" height="78.33333333333331" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-706" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1100" y="1300" width="370" height="480" as="geometry" />
+          <mxGeometry x="1100" y="1300" width="520" height="480" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-675" value="" style="endArrow=none;html=1;rounded=0;" parent="FbQEiacw4XEHrXZC_JCj-706" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -551,7 +548,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-704" value="" style="group" parent="FbQEiacw4XEHrXZC_JCj-706" vertex="1" connectable="0">
-          <mxGeometry x="94" width="276" height="480" as="geometry" />
+          <mxGeometry x="94" width="426" height="480" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-681" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="FbQEiacw4XEHrXZC_JCj-704" vertex="1">
           <mxGeometry width="276" height="480" as="geometry" />
@@ -850,6 +847,9 @@
         </mxCell>
         <mxCell id="T5VIbhjcyiOePLNBsleC-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Learnable Weighted Fusion&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="7R_O7G8fWMus0W6j9cl8-26" vertex="1">
           <mxGeometry x="310" y="79.68000000000006" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-628" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="770" width="480" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
