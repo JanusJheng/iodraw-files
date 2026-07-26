@@ -446,7 +446,7 @@
           <mxGeometry x="192.93" y="-810" width="704.14" height="530" as="geometry" />
         </mxCell>
         <mxCell id="7R_O7G8fWMus0W6j9cl8-8" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 23px;&quot;&gt;Price Return&lt;/span&gt;&lt;div style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 23px; white-space: nowrap;&quot;&gt;&amp;nbsp;Time Series&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="980" y="-660" width="140" height="70" as="geometry" />
+          <mxGeometry x="970" y="-650" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="-163.79" width="460" height="620" as="geometry" />
