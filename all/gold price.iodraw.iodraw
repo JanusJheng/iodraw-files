@@ -851,17 +851,7 @@
             <mxPoint x="1138" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7R_O7G8fWMus0W6j9cl8-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="-1250" as="sourcePoint" />
-            <mxPoint x="720" y="-1100" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="900" y="-1140" />
-              <mxPoint x="840" y="-1200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7R_O7G8fWMus0W6j9cl8-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;" vertex="1" parent="1">
+        <mxCell id="7R_O7G8fWMus0W6j9cl8-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1114.17" y="-1360" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
