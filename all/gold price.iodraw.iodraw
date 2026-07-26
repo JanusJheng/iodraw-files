@@ -867,7 +867,7 @@
           <mxGeometry x="420" y="188.87" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7R_O7G8fWMus0W6j9cl8-4" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 23px; white-space: nowrap;&quot;&gt;Price Return Time Series&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-30" width="120" height="70" as="geometry" />
+          <mxGeometry x="490" y="-30" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
