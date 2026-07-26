@@ -169,7 +169,7 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-465" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#fad7ac;strokeColor=#b46504;" parent="FbQEiacw4XEHrXZC_JCj-440" vertex="1">
           <mxGeometry x="80" y="80" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-570" value="" style="group;fillColor=#fad7ac;strokeColor=#b46504;" parent="FbQEiacw4XEHrXZC_JCj-440" vertex="1" connectable="0">
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-570" value="" style="group" parent="FbQEiacw4XEHrXZC_JCj-440" vertex="1" connectable="0">
           <mxGeometry y="-27" width="242.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-571" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" parent="FbQEiacw4XEHrXZC_JCj-570" vertex="1">
@@ -292,7 +292,7 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-532" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" parent="FbQEiacw4XEHrXZC_JCj-518" vertex="1">
           <mxGeometry x="100" y="50" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-533" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" parent="FbQEiacw4XEHrXZC_JCj-518" vertex="1">
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-533" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#fad7ac;strokeColor=#b46504;" parent="FbQEiacw4XEHrXZC_JCj-518" vertex="1">
           <mxGeometry x="120" y="60" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-534" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" parent="FbQEiacw4XEHrXZC_JCj-518" vertex="1">
