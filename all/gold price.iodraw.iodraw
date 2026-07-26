@@ -652,7 +652,7 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-713" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Gate Weights&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1350" y="1080" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-689" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;Gated Fusion&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-689" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;Gated Fusion&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1161.0142180094786" y="1090" width="176.9857819905213" height="76.36363636363637" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-690" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;Average Fusion&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
@@ -803,7 +803,7 @@
             <mxPoint x="345.1456310679611" y="39.38317757009346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-745" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;tanh&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#60CC9A;rotation=-90;container=0;" parent="FbQEiacw4XEHrXZC_JCj-764" vertex="1">
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-745" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;tanh&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;rotation=-90;container=0;strokeColor=#0e8088;" parent="FbQEiacw4XEHrXZC_JCj-764" vertex="1">
           <mxGeometry x="326.79611650485435" y="56.26168224299065" width="38.92715617751131" height="28.73126223634147" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-746" value="" style="endArrow=none;html=1;rounded=0;" parent="FbQEiacw4XEHrXZC_JCj-764" target="FbQEiacw4XEHrXZC_JCj-747" edge="1">
