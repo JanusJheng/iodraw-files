@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-30" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Traditional Features&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;(Base Features)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
-          <mxGeometry x="570" y="70" width="240" height="80" as="geometry" />
+          <mxGeometry x="930" y="-130" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-31" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;TDA Features&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="575" y="195" width="240" height="80" as="geometry" />
