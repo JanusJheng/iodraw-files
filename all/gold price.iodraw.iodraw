@@ -199,7 +199,7 @@
         <mxCell id="FbQEiacw4XEHrXZC_JCj-579" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" parent="FbQEiacw4XEHrXZC_JCj-570" vertex="1">
           <mxGeometry x="120" y="40" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-580" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" parent="FbQEiacw4XEHrXZC_JCj-570" vertex="1">
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-580" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#fad7ac;strokeColor=#b46504;" parent="FbQEiacw4XEHrXZC_JCj-570" vertex="1">
           <mxGeometry x="140" y="50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-581" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;" parent="FbQEiacw4XEHrXZC_JCj-570" vertex="1">
