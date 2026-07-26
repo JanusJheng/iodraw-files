@@ -650,9 +650,6 @@
             <mxPoint x="780" y="49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-713" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Gate Weights&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7R_O7G8fWMus0W6j9cl8-26" vertex="1">
-          <mxGeometry x="790" width="150" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-689" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;Gated Fusion&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="7R_O7G8fWMus0W6j9cl8-26" vertex="1">
           <mxGeometry x="601.0142180094786" y="10" width="176.9857819905213" height="76.36363636363637" as="geometry" />
         </mxCell>
@@ -822,7 +819,10 @@
           <mxGeometry x="600" y="1190" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7R_O7G8fWMus0W6j9cl8-47" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="882.05" y="2020" width="200.04" height="150" as="geometry" />
+          <mxGeometry x="824.14" y="2020" width="257.95" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FbQEiacw4XEHrXZC_JCj-713" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Gate Weights&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="880" y="2070" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
