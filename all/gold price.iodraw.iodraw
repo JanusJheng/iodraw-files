@@ -771,7 +771,7 @@
           <mxGeometry x="1241" y="1970" width="209.44" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-713" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Gate&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Weights&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1510" y="2030" width="100" height="70" as="geometry" />
+          <mxGeometry x="1305" y="1970" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-689" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;Gated&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 23px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Fusion&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="950" y="2020" width="250" height="120" as="geometry" />
@@ -780,13 +780,13 @@
           <mxGeometry x="950" y="2200" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-696" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Output&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="140.00000000000006" y="2083.6418181818185" width="169.61137440758293" height="76.36363636363637" as="geometry" />
+          <mxGeometry x="220.00000000000006" y="2123.6318181818183" width="169.61137440758293" height="76.36363636363637" as="geometry" />
         </mxCell>
         <mxCell id="T5VIbhjcyiOePLNBsleC-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Learnable Weighted Fusion&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420.0000000000002" y="2090" width="200" height="95" as="geometry" />
+          <mxGeometry x="490.0000000000002" y="2115" width="200" height="95" as="geometry" />
         </mxCell>
         <mxCell id="7R_O7G8fWMus0W6j9cl8-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.tailedNotchedArrow;dy1=13;dx1=42;notch=43;arrowHead=22;dx2=25;dy2=105;direction=west;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="2140" width="190" height="70" as="geometry" />
+          <mxGeometry x="750" y="2140" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
