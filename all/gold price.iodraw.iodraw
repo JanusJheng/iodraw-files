@@ -732,7 +732,7 @@
           <mxGeometry x="628.77" y="783.5" width="140" height="101" as="geometry" />
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-681" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="801.53" y="1300" width="438.47" height="660" as="geometry" />
+          <mxGeometry x="801.53" y="1300" width="418.47" height="660" as="geometry" />
         </mxCell>
         <mxCell id="7R_O7G8fWMus0W6j9cl8-33" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="858.5250965348175" y="1370" width="307.55490346518275" height="500" as="geometry" />
@@ -781,12 +781,6 @@
         </mxCell>
         <mxCell id="FbQEiacw4XEHrXZC_JCj-696" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Output&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="80.00000000000006" y="2370.001818181818" width="169.61137440758293" height="76.36363636363637" as="geometry" />
-        </mxCell>
-        <mxCell id="FbQEiacw4XEHrXZC_JCj-693" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="544.8549763033175" y="2561.818181818182" as="sourcePoint" />
-            <mxPoint x="740.2767772511847" y="2561.818181818182" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="T5VIbhjcyiOePLNBsleC-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 23px;&quot;&gt;Learnable Weighted Fusion&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="2160" width="200" height="95" as="geometry" />
